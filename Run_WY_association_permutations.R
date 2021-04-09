@@ -7,6 +7,9 @@
 #Arguments
 
 #all_observerations_dataframe - raw data (table S1)
+#***Note that this table was first processed to remove duplicates of OTU-Sample ID
+#   which removed instance where the same OTU was isolated multpile times from the same
+#   exact sample. 
 
 #permutations - number of desired permutations (10,000)
 
