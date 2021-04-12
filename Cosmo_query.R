@@ -1,3 +1,5 @@
+#WJS - last updated -04-12-21 (commented by KJF)
+
 
 #R code below was written to determine (for each OTU):
   #how frequently is the OTU found in each climatic region
